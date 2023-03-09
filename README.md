@@ -1,18 +1,17 @@
-<h1 align="center">Hi ??, I'm Arslan Khalid</h1>
+<h1 align="center">Hi 👋, I'm Arslan Khalid</h1>
 <h3 align="center">A Passionate WordPress Web Developer from Pakistan</h3>
-
 
 <img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslankhalidd&label=Profile%20views&color=0e75b6&style=flat" alt="arslankhalidd" /> </p>
 
-- ????? All of my projects are available at [https://arsalankhalid.netlify.app/](https://arsalankhalid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arsalankhalid.netlify.app/](https://arsalankhalid.netlify.app/)
 
-- ?? Ask me about **Html5 Css3 Wordpress**
+- 💬 Ask me about **Html5 Css3 Wordpress**
 
-- ?? How to reach me **arsalankhalidmehmood@gmail.com**
+- 📫 How to reach me **arsalankhalidmehmood@gmail.com**
 
-- ?? Know about my experiences [Whatsapp +923093018539](Whatsapp +923093018539)
+- 📄 Know about my experiences [Whatsapp +923093018539](Whatsapp +923093018539)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
